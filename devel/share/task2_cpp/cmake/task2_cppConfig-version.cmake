@@ -1,0 +1,1 @@
+/home/duman/ducky_ws/devel/.private/task2_cpp/share/task2_cpp/cmake/task2_cppConfig-version.cmake

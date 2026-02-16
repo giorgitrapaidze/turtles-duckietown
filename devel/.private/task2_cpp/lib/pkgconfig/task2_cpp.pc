@@ -1,0 +1,8 @@
+prefix=/home/duman/ducky_ws/devel/.private/task2_cpp
+
+Name: task2_cpp
+Description: Description of task2_cpp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp duckietown_msgs

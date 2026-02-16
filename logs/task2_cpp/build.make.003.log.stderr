@@ -1,0 +1,7 @@
+[01m[K/home/duman/ducky_ws/src/task2_cpp/src/drive_3s.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kduckietown_msgs/WheelsCmdStamped.h: No such file or directory
+    2 | #include [01;31m[K<duckietown_msgs/WheelsCmdStamped.h>[m[K // Corrected header
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/drive_3s.dir/build.make:76: CMakeFiles/drive_3s.dir/src/drive_3s.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:827: CMakeFiles/drive_3s.dir/all] Error 2
+make: *** [Makefile:146: all] Error 2

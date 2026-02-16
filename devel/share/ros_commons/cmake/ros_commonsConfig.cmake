@@ -1,0 +1,1 @@
+/home/duman/ducky_ws/devel/.private/ros_commons/share/ros_commons/cmake/ros_commonsConfig.cmake

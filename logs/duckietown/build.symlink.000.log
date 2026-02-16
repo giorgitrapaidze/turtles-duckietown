@@ -1,0 +1,6 @@
+Symlinking /home/duman/ducky_ws/devel/share/duckietown/cmake/duckietownConfig-version.cmake
+Symlinking /home/duman/ducky_ws/devel/share/duckietown/cmake/duckietownConfig.cmake
+Symlinking /home/duman/ducky_ws/devel/lib/pkgconfig/duckietown.pc
+Symlinking /home/duman/ducky_ws/devel/lib/python3/dist-packages/duckietown_utils_tests/__init__.py
+Symlinking /home/duman/ducky_ws/devel/lib/python3/dist-packages/duckietown/__init__.py
+Symlinking /home/duman/ducky_ws/devel/lib/python3/dist-packages/duckietown_utils/__init__.py

@@ -1,0 +1,4 @@
+dt-ros-commons/packages/ros_commons
+/home/duman/ducky_ws/devel/.private/ros_commons/share/ros_commons/cmake/ros_commonsConfig-version.cmake /home/duman/ducky_ws/devel/share/ros_commons/cmake/ros_commonsConfig-version.cmake
+/home/duman/ducky_ws/devel/.private/ros_commons/share/ros_commons/cmake/ros_commonsConfig.cmake /home/duman/ducky_ws/devel/share/ros_commons/cmake/ros_commonsConfig.cmake
+/home/duman/ducky_ws/devel/.private/ros_commons/lib/pkgconfig/ros_commons.pc /home/duman/ducky_ws/devel/lib/pkgconfig/ros_commons.pc

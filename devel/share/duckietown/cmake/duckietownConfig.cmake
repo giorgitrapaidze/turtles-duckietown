@@ -1,0 +1,1 @@
+/home/duman/ducky_ws/devel/.private/duckietown/share/duckietown/cmake/duckietownConfig.cmake
